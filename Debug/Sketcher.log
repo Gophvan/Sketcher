@@ -1,0 +1,38 @@
+﻿生成启动时间为 2015/9/20 17:07:55。
+     1>项目“C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Sketcher\Sketcher.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Sketcher.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Sketcher.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ChildFrm.cpp Circle.cpp Curve.cpp Element.cpp Line.cpp MainFrm.cpp Rectangle.cpp Sketcher.cpp SketcherDoc.cpp SketcherView.cpp
+         SketcherView.cpp
+         SketcherDoc.cpp
+         Sketcher.cpp
+         Rectangle.cpp
+         MainFrm.cpp
+         Line.cpp
+         Element.cpp
+         Curve.cpp
+         Circle.cpp
+         ChildFrm.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0409" /IDebug\ /nologo /fo"Debug\Sketcher.res" Sketcher.rc 
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Sketcher\Debug\Sketcher.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Sketcher\Debug\Sketcher.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Sketcher\Debug\Sketcher.lib" /MACHINE:X86 Debug\Sketcher.res
+         Debug\ChildFrm.obj
+         Debug\Circle.obj
+         Debug\Curve.obj
+         Debug\Element.obj
+         Debug\Line.obj
+         Debug\MainFrm.obj
+         Debug\Rectangle.obj
+         Debug\Sketcher.obj
+         Debug\SketcherDoc.obj
+         Debug\SketcherView.obj
+         Debug\stdafx.obj
+         Sketcher.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Sketcher\Debug\Sketcher.exe
+     1>已完成生成项目“C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Sketcher\Sketcher.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.37
